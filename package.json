@@ -1,0 +1,10 @@
+{
+  "name" : "rocket.chat",
+  "scripts" : {
+    "start" : "node bundle/main.js",
+    "install": "./build.sh"
+  },
+  "engines" : {
+    "node" : "^12"
+  }
+}
